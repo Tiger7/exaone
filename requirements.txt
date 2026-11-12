@@ -1,0 +1,6 @@
+gradio>=5.0,<6.0
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+EbookLib>=0.18,<1
+pypdf>=5,<7
+python-dotenv
